@@ -7,10 +7,11 @@ And, please find the repos of [KR-BERT] (Lee, et al.) and [KoBERT] (SKTBrain) th
 ## Pre-trained Model
 This repo includes two types of models.
 
-<a href="http://www.kurias.co.kr/file/5847315836/kmbert/kmbert.tar" target="_blank">KM-BERT.tar</a>: Korean Medical BERT tar file. <br>
-<a href="http://www.kurias.co.kr/file/5847315836/kmbert/kmbert.zip" target="_blank">KM-BERT.zip</a>: Korean Medical BERT zip file. <br>
-<a href="http://www.kurias.co.kr/file/5847315836/kmbert_vocab/kmbert_vocab.tar" target="_blank">KM-BERT-vocab.tar</a>: Korean Medical BERT with additional medical vocabulary tar file. <br>
-<a href="http://http://www.kurias.co.kr/file/5847315836/kmbert_vocab/kmbert_vocab.zip" target="_blank">KM-BERT-vocab.zip</a>: Korean Medical BERT with additional medical vocabulary zip file. <br>
+[KM-BERT.tar]: Korean Medical BERT tar file. <br>
+[KM-BERT.zip]: Korean Medical BERT zip file. <br>
+[KM-BERT-vocab.tar]: Korean Medical BERT with additional medical vocabulary tar file. <br>
+[KM-BERT-vocab.zip]: Korean Medical BERT with additional medical vocabulary zip file. <br>
+**Tip**: open the link in a new window.
 
 Each file is composed of **(config.json)**, **(vocab.txt)**, and **(model.bin)**.
 
