@@ -12,9 +12,9 @@ This repo includes two types of models.
 [KM-BERT-vocab.tar]: Korean Medical BERT with additional medical vocabulary tar file. <br>
 [KM-BERT-vocab.zip]: Korean Medical BERT with additional medical vocabulary zip file. <br>
 
-##############################################################
-**Tip**: Open the link in a "new window", then refresh a page.
-##############################################################
+############################################################## <br>
+**Tip**: Open the link in a "new window", then refresh a page. <br>
+############################################################## <br>
 
 Each file is composed of **(config.json)**, **(vocab.txt)**, and **(model.bin)**.
 
